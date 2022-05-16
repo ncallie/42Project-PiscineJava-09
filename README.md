@@ -34,8 +34,6 @@ Layer |	Example
 2.<font> Channel |	Ethernet, DSL
 1.<font> Physical |	USB, "twisted pair"
 
-![A Joke](misc/images/joke.png)
-
 # Chapter II
 ### General Rules
 - Use this page as the only reference. Do not listen to any rumors and speculations about how to prepare your solution.
